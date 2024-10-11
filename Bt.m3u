@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/15yXkffZ/PIX-HD-WHITE.png" group-title="English", 1. SONY PIX HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1116481
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/zXWmtDFY/SET-LOGO.png" group-title="Hindi", 2. SONY TV
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/163522
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/xdsC9rT5/Sony-MAX.png" group-title="Hindi", 3. SONY MAX FHD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/163523
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/SsgYJ2SB/SONY-Sports-Ten1-HD-Logo-CLR.png" group-title="Sports", 4. SONY TEN 1 HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282670
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/XqQK6jD8/SONY-Sports-Ten2-HD-Logo-CLR.png" group-title="Sports", 5. SONY TEN 2 HD
+http://103.141.2.37:25461/live/web/web/584.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/nrhTdF4v/SONY-Sports-Ten3-HD-Logo-CLR.png" group-title="Sports", 6. SONY TEN 3 HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114578
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/K85pfTbK/SONY-Sports-Ten4-HD-Logo-CLR-1.png" group-title="Sports", 7. SONY TEN 4 HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114579
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/FH890Y9t/SONY-Sports-Ten5-HD-Logo-CLR.png" group-title="Sports", 8. SONY TEN 5 HD
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/43Mf55rP/20231116-224539.png" group-title="Sports", 9. STAR SPORTS 1HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/155968
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/k4HDZCz0/20231116-225605.png" group-title="Sports", 10. STAR SPORTS 2HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114581
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/5yPxcwsK/20231116-230711.png" group-title="Sports", 11. STAR SPORTS 3HD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/282678
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/QMwhm2Wv/20231116-120920.png" group-title="Sports", 12. STAR SPORTS SELECT 1 FHD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114583
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/rw66YFvq/20231116-161037.png" group-title="Sports", 13. STAR SPORTS SELECT 2 FHD
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/1114584
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/66CbRtpF/20231116-152055.png" group-title="Sports", 14. ASTRO SPORTS HD
+http://mix-dns.com:8080/live/jfayiz%40gmail.com/Xx4rC8umZ4/485564.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/BQQcfHST/images.jpg" group-title="Sports", 15. Sky Sports Cricket 1 HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2090.ts
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/d3ry8RKf/images-2.jpg" group-title="Sports", 16. Gtv HD
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/NMqWjYpw/20231116-235057.png" group-title="Sports", 17. True Sports 2 HD
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/T15Pzn2c/images.jpg" group-title="Sports", 18. THE HERO HD
+http://38.96.178.201/live/FS1/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/6pP4m6hw/images-1.jpg" group-title="Sports", 19. NBA HD
+http://38.96.178.201/live/NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/nh7rLKJj/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="Sports", 20. ESPNU HD
+http://38.96.178.201/live/ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/sXJF1v43/20231116-162834.png" group-title="Sports", 21. PTV HD
+http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.postimg.cc/28ch3nTS/20231116-150304.png" group-title="Sports", 22. Sports 18HD
+htt
